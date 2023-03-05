@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Huy
- *
- */
-module Hello {
-}
